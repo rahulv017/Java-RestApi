@@ -88,7 +88,7 @@ public class Nodes {
 		 
 		 
 		 res.setNodeId(1);
-		 res.setDistance(2);
+		 res.setDistance(3);
 		 res.setPacketId(str);
 		 res.setWeight(mp);
 		 //res.setNumber(total);
