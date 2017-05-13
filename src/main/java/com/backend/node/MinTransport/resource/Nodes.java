@@ -20,8 +20,8 @@ public class Nodes {
 		 str.add("B");
 		 str.add("C");
 		 Map<Character, Float> mp=new HashMap<Character,Float>();
-		 mp.put('A', (float) 10);
-		 mp.put('B',(float) 3);
+		 mp.put('A', (float) 3);
+		 mp.put('B',(float) 2);
 		 mp.put('C', (float) 8);
 		 
 		 
@@ -39,9 +39,9 @@ public class Nodes {
 		 str.add("E");
 		 str.add("F");
 		 Map<Character,Float> mp=new HashMap<Character,Float>();
-		 mp.put('D', (float) 6);
-		 mp.put('E',(float) 12);
-		 mp.put('F', (float) 2);
+		 mp.put('D', (float) 12);
+		 mp.put('E',(float) 25);
+		 mp.put('F', (float) 15);
 		 
 		 
 		 res.setNodeId(2);
@@ -82,8 +82,8 @@ public class Nodes {
 		 str.add("B");
 		 str.add("C");
 		 Map<Character, Float> mp=new HashMap<Character,Float>();
-		 mp.put('A', (float) 10);
-		 mp.put('B',(float) 3);
+		 mp.put('A', (float) 3);
+		 mp.put('B',(float) 2);
 		 mp.put('C', (float) 8);
 		 
 		 
@@ -101,9 +101,9 @@ public class Nodes {
 		 str.add("E");
 		 str.add("F");
 		 Map<Character,Float> mp=new HashMap<Character,Float>();
-		 mp.put('D', (float) 6);
-		 mp.put('E',(float) 12);
-		 mp.put('F', (float) 2);
+		 mp.put('D', (float) 12);
+		 mp.put('E',(float) 25);
+		 mp.put('F', (float) 15);
 		 
 		 
 		 res.setNodeId(2);
